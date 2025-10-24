@@ -18,7 +18,7 @@ public class Main
         System.out.print("Masukkan Nilai UAS (0-100): ");
         double uas = input.nextDouble();
 
-        // Perhitungan nilai akhir dengan bobot
+        // Perhitungan nilai akhir dengan bobottt
         double nilaiAkhir = (0.3 * tugas) + (0.3 * uts) + (0.4 * uas);
 
         // Menentukan grade
